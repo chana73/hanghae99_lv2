@@ -16,11 +16,6 @@
 
 </aside>
 
-<aside>
-
-👉 **새로운 요구사항을 구현해 보세요!**
-
-</aside>
 
 1. 회원 가입 API
     - username, password를 Client에서 전달받기
